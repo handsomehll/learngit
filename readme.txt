@@ -11,3 +11,5 @@ Creating a new branch is quick AND simple.
 branch management
 bug branch 
 cooperation
+
+test push and pull
